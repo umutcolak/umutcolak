@@ -24,26 +24,6 @@
         <item>
             <g:image_link>http://www.dataforceapi.com/1-large_default/hummingbird-printed-t-shirt.jpg</g:image_link>
             <g:title>DataForceTest Hummingbird printed t-shirt</g:title>
-            <g:id>jjj</g:id>
-            <g:google_product_category>Clothes &gt; Men</g:google_product_category>
-            <g:sale_price.eur>100 EUR</g:sale_price.eur>
-            <g:price.eur>200 EUR</g:price.eur>
-            <g:link>http://www.dataforceapi.com/men/1-2-hummingbird-printed-t-shirt.html#/1-size-s/11-color-black</g:link>
-            <g:availability>in stock</g:availability>
-        </item>
-                <item>
-            <g:image_link>http://www.dataforceapi.com/1-large_default/hummingbird-printed-t-shirt.jpg</g:image_link>
-            <g:title>DataForceTest Hummingbird printed t-shirt</g:title>
-            <g:id>kkk</g:id>
-            <g:google_product_category>Clothes &gt; Men</g:google_product_category>
-            <g:sale_price.try>100 TRY</g:sale_price.try>
-            <g:price.eur>200 EUR</g:price.eur>
-            <g:link>http://www.dataforceapi.com/men/1-2-hummingbird-printed-t-shirt.html#/1-size-s/11-color-black</g:link>
-            <g:availability>in stock</g:availability>
-        </item>
-                <item>
-            <g:image_link>http://www.dataforceapi.com/1-large_default/hummingbird-printed-t-shirt.jpg</g:image_link>
-            <g:title>DataForceTest Hummingbird printed t-shirt</g:title>
             <g:id>lll</g:id>
             <g:google_product_category>Clothes &gt; Men</g:google_product_category>
             <g:sale_price.usd>100 USD</g:sale_price.usd>
