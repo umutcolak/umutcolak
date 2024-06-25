@@ -4,33 +4,13 @@
         <item>
             <g:image_link>http://www.dataforceapi.com/23-large_default/pack-mug-framed-poster.jpg</g:image_link>
             <g:title>DataForceTest Pack Mug + Framed poster</g:title>
-            <g:id>ggg</g:id>
+            <g:id>ppp</g:id>
             <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
             <g:sale_price.try>100 TRY</g:sale_price.try>
             <g:price.try>200 TRY</g:price.try>
+            <g:sale_price.eur>45 TRY</g:sale_price.eur>
+            <g:price.eur>82 TRY</g:price.eur>
             <g:link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</g:link>
-            <g:availability>in stock</g:availability>
-        </item>
-        <item>
-            <g:image_link>http://www.dataforceapi.com/1-large_default/hummingbird-printed-t-shirt.jpg</g:image_link>
-            <g:title>DataForceTest Hummingbird printed t-shirt</g:title>
-            <g:id>hhh</g:id>
-            <g:google_product_category>Clothes &gt; Men</g:google_product_category>
-            <g:sale_price.usd>100 USD</g:sale_price.usd>
-            <g:price.usd>200 USD</g:price.usd>
-            <g:link>http://www.dataforceapi.com/men/1-2-hummingbird-printed-t-shirt.html#/1-size-s/11-color-black</g:link>
-            <g:availability>in stock</g:availability>
-        </item>
-        <item>
-            <g:image_link>http://www.dataforceapi.com/1-large_default/hummingbird-printed-t-shirt.jpg</g:image_link>
-            <g:title>DataForceTest Hummingbird printed t-shirt</g:title>
-            <g:id>lll</g:id>
-            <g:google_product_category>Clothes &gt; Men</g:google_product_category>
-            <g:sale_price.usd>100 USD</g:sale_price.usd>
-            <g:price.usd>200 USD</g:price.usd>
-            <g:sale_price.try>1000 TRY</g:sale_price.try>
-            <g:price.try>2000 TRY</g:price.try>
-            <g:link>http://www.dataforceapi.com/men/1-2-hummingbird-printed-t-shirt.html#/1-size-s/11-color-black</g:link>
             <g:availability>in stock</g:availability>
         </item>
     </channel>
