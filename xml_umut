@@ -2,7 +2,7 @@
 <rss xmlns:c="http://base.google.com/ns/1.0" version="2.0" xmlns:g="http://base.google.com/ns/1.0">
     <channel>
         <item>
-            <g:image_link>http://www.dataforceapi.com/23-large_default/pack-mug-framed-poster.jpg</g:image_link>
+            <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
             <g:title>DataForceTest Pack Mug + Framed poster</g:title>
             <g:id>bbbbbb</g:id>
             <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
@@ -14,7 +14,7 @@
             <g:availability>in stock</g:availability>
         </item>
                 <item>
-            <g:image_link>http://www.dataforceapi.com/23-large_default/pack-mug-framed-poster.jpg</g:image_link>
+            <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
             <g:title>DataForceTest Pack Mug + Framed poster</g:title>
             <g:id>vvvvvv</g:id>
             <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
