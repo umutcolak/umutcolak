@@ -1,40 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:c="http://base.google.com/cns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:c="http://base.google.com/ns/1.0" version="2.0" xmlns:g="http://base.google.com/ns/1.0">
     <channel>
-        <title>ProductsUp Xml Export</title>
-        <link>http://www.productsup.io</link>
-        <description>this file contains all productdata converted to Google Merchant Center xml. file was created at: 2022-06-15 20:09:57</description>
         <item>
+            <g:image_link>http://www.dataforceapi.com/23-large_default/pack-mug-framed-poster.jpg</g:image_link>
+            <g:title>DataForceTest Pack Mug + Framed poster</g:title>
+            <g:id>bbbbbb</g:id>
+            <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
+            <g:sale_price.try>100 TRY</g:sale_price.try>
+            <g:price.try>200 TRY</g:price.try>
+            <g:sale_price.eur>45 EUR</g:sale_price.eur>
+            <g:price.eur>82 EUR</g:price.eur>
+            <g:link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</g:link>
             <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:id>19KBBZKELB029001</g:id>
-            <g:item_group_id>19KBBZKELB029</g:item_group_id>
-            <g:title>BabyZ Kız Bebek Tül Detaylı Nakışlı Elbise - Pudra</g:title>
-            <g:description>Özellikleri: BabyZ Bebek Giyim ürünleri bebeklerinize çok yakışacak, seviml</g:description>
-            <g:price>89.90 TRY</g:price>
-            <g:sale_price>44.95 TRY</g:sale_price>
-            <g:shipping>
-                <g:country>TR</g:country>
-                <g:service></g:service>
-                <g:price>9.99 TRY</g:price>
-            </g:shipping>
-            <g:image_link>https://cdn.e-bebek.com/www.ebebek/i/p/hd/40/l19KBBZKELB029-0040_1.jpg</g:image_link>
-            <g:additional_image_link>https://cdn.e-bebek.com/www.ebebek/i/p/hd/40/l19KBBZKELB029-0040_2.jpg</g:additional_image_link>
-            <g:additional_image_link>https://cdn.e-bebek.com/www.ebebek/i/p/hd/40/l19KBBZKELB029-0040_3.jpg</g:additional_image_link>
-            <g:additional_image_link>https://cdn.e-bebek.com/www.ebebek/i/p/hd/40/l19KBBZKELB029-0040_4.jpg</g:additional_image_link>
-            <g:link>https://www.e-bebek.com/babyz-kiz-bebek-tul-detayli-nakisli-elbise-p-19kbbzkelb029001/</g:link>
-            <g:product_type>Giyim &amp; Tekstil &gt; Bebek Giyim &gt; Bebek Elbiseleri</g:product_type>
-            <g:google_product_category>182</g:google_product_category>
-            <g:brand>BabyZ</g:brand>
-            <g:color>Pudra</g:color>
-            <g:size>9 Mo</g:size>
-            <g:gender>female</g:gender>
-            <g:age_group>infant</g:age_group>
-            <g:custom_label_0>indirimli</g:custom_label_0>
-            <g:custom_label_1>Giyim &amp; Tekstil</g:custom_label_1>
-            <g:custom_label_2>Bebek Giyim</g:custom_label_2>
-            <g:custom_label_3>Bebek Elbiseleri</g:custom_label_3>
-            <g:display_ads_title>BabyZ Kız Bebek Tül Detaylı Nakışlı Elbise - Pudra</g:display_ads_title>
+        </item>
+                <item>
+            <g:image_link>http://www.dataforceapi.com/23-large_default/pack-mug-framed-poster.jpg</g:image_link>
+            <g:title>DataForceTest Pack Mug + Framed poster</g:title>
+            <g:id>vvvvvv</g:id>
+            <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
+            <g:sale_price.try>100 TRY</g:sale_price.try>
+            <g:price.try>200 TRY</g:price.try>
+            <g:sale_price.eur>45 EUR</g:sale_price.eur>
+            <g:price.eur>82 EUR</g:price.eur>
+            <g:link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</g:link>
+            <g:availability>in stock</g:availability>
         </item>
     </channel>
 </rss>
