@@ -4,7 +4,8 @@
         <item>
             <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
             <g:title>DataForceTest Pack Mug + Framed poster</g:title>
-            <g:id>bbbbbb</g:id>
+            <g:id>20240826_1</g:id>
+            <g:string></g:string>
             <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
             <g:sale_price.try>100 TRY</g:sale_price.try>
             <g:price.try>200 TRY</g:price.try>
@@ -16,7 +17,8 @@
                 <item>
             <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
             <g:title>DataForceTest Pack Mug + Framed poster</g:title>
-            <g:id>vvvvvv</g:id>
+            <g:id>20240826_2</g:id>
+            <g:string> </g:string>
             <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
             <g:sale_price.try>100 TRY</g:sale_price.try>
             <g:price.try>200 TRY</g:price.try>
