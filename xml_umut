@@ -4,22 +4,55 @@
         <item>
             <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
             <g:title>DataForceTest Pack Mug + Framed poster</g:title>
-            <g:id>20240826_1</g:id>x
+            <g:id>stock_test_1</g:id>x
             <g:test_string> </g:test_string>
-            <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
-            <g:sale_price>45 EUR</g:sale_price>
-            <g:price>82 EUR</g:price>
+            <g:google_product_category>Stock Test</g:google_product_category>
+            <g:sale_price>45 TRY</g:sale_price>
+            <g:price>82 TRY</g:price>
             <g:link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</g:link>
             <g:availability>in stock</g:availability>
         </item>
-                <item>
+        <item>
             <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
             <g:title>DataForceTest Pack Mug + Framed poster</g:title>
-            <g:id>20240826_2</g:id>
-            <g:test_string>xxxx</g:test_string>
-            <g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
-            <g:sale_price>100 TRY</g:sale_price>
-            <g:price>200 TRY</g:price>
+            <g:id>stock_test_2</g:id>x
+            <g:test_string> </g:test_string>
+            <g:google_product_category>Stock Test</g:google_product_category>
+            <g:sale_price>45 TRY</g:sale_price>
+            <g:price>82 TRY</g:price>
+            <g:link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</g:link>
+            <g:availability>in stock</g:availability>
+        </item>
+        <item>
+            <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
+            <g:title>DataForceTest Pack Mug + Framed poster</g:title>
+            <g:id>stock_test_3</g:id>x
+            <g:test_string> </g:test_string>
+            <g:google_product_category>Stock Test</g:google_product_category>
+            <g:sale_price>45 TRY</g:sale_price>
+            <g:price>82 TRY</g:price>
+            <g:link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</g:link>
+            <g:availability>in stock</g:availability>
+        </item>
+        <item>
+            <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
+            <g:title>DataForceTest Pack Mug + Framed poster</g:title>
+            <g:id>stock_test_4</g:id>x
+            <g:test_string> </g:test_string>
+            <g:google_product_category>Stock Test</g:google_product_category>
+            <g:sale_price>45 TRY</g:sale_price>
+            <g:price>82 TRY</g:price>
+            <g:link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</g:link>
+            <g:availability>in stock</g:availability>
+        </item>
+        <item>
+            <g:image_link>https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</g:image_link>
+            <g:title>DataForceTest Pack Mug + Framed poster</g:title>
+            <g:id>stock_test_5</g:id>x
+            <g:test_string> </g:test_string>
+            <g:google_product_category>Stock Test</g:google_product_category>
+            <g:sale_price>45 TRY</g:sale_price>
+            <g:price>82 TRY</g:price>
             <g:link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</g:link>
             <g:availability>in stock</g:availability>
         </item>
